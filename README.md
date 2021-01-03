@@ -20,7 +20,7 @@ Requirements:
 1. Mongodb.
 2. Nodejs.
 
-To install Workout Tracker:
+To install Budget Tracker:
 
 1. Download the source code and copy to a new directory.
 2. Open a terminal window and navigate to the new directory.
